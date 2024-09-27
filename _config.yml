@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Blog 
+title: My blog
+description: My blog that covers my personal hobbies and real life IT examples
 tags:
   - blog
   - template
